@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 23 Jan 2014 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://paultpearson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bean Beetle Maturation</title>
+      <link>https://paultpearson.github.io/tags/bean-beetle-maturation/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://paultpearson.github.io/tags/bean-beetle-maturation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelets</title>
+      <link>https://paultpearson.github.io/tags/wavelets/</link>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://paultpearson.github.io/tags/wavelets/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Algebraic Topology</title>

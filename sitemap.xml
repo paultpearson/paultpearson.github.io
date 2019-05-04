@@ -3,12 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paultpearson.github.io/author/admin/</loc>
+    <loc>https://paultpearson.github.io/publication_types/2/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/algebraic-topology/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://paultpearson.github.io/authors/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/dieudonne-rings/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/hopf-rings/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/k-theory/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/publication_types/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/publication/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/publication/homology-ko/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/authors/admin/</loc>
+    <lastmod>2014-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/author/admin/</loc>
   </url>
   
   <url>
@@ -22,35 +87,11 @@
   </url>
   
   <url>
-    <loc>https://paultpearson.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://paultpearson.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://paultpearson.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://paultpearson.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/authors/admin/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

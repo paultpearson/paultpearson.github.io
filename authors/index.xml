@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 23 Jan 2014 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://paultpearson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>admin</title>
       <link>https://paultpearson.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Jan 2014 00:00:00 -0500</pubDate>
       
       <guid>https://paultpearson.github.io/authors/admin/</guid>
       <description></description>

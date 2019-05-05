@@ -1,0 +1,107 @@
+---
+# Personal details
+name: Paul Pearson
+address:
+- Hope College
+- Mathematics Department
+- 27 Graves Place
+- Holland, MI 49423 USA
+phone: "616-395-7529"
+email: pearsonp@hope.edu
+website: paultpearson.github.io
+twitter: paultpearson
+
+# Education
+education:
+- degree: Ph.D in Mathematics
+  date: June 2006
+  institution: Northwestern University
+  city: Evanston, Illinois
+  thesistitle: The mod p homology of topological modular forms
+  advisor: Paul Goerss
+- degree: BA in Mathematics
+  institution: Saint Olaf College
+  date: May 2001
+  city: Northfield, Minnesota
+  honors: Phi Beta Kappa, *summa cum laude*, departmental distinction
+
+# Work experience
+experience:
+- jobtitle: Associate Professor
+  dates: July 2018 - present
+  department: Department of Mathematics
+  employer: Hope College
+  city: Holland, Michigan
+- jobtitle: Assistant Professor
+  dates: July 2014 - June 2018
+  department: Department of Mathematics
+  employer: Hope College
+  city: Holland, Michigan
+- jobtitle: Visiting Assistant Professor
+  dates: July 2012 - June 2014
+  department: Department of Mathematics
+  employer: Hope College
+  city: Holland, Michigan
+- jobtitle: Visiting Assistant Professor
+  dates: August 2009 - May 2012
+  department: Department of Mathematics
+  employer: Fort Lewis College
+  city: Durango, Colorado
+- jobtitle: Visiting Assistant Professor
+  dates: January 2007 - July 2009
+  department: Department of Mathematics
+  employer: University of Rochester
+  city: Rochester, New York
+- jobtitle: Visiting Research Scholar
+  dates: September 2006 - November 2006
+  department: ""
+  employer: Mittag-Leffler Institute
+  city: Stockholm, Sweden
+- jobtitle: Instructor
+  dates: September 2005 - June 2006
+  department: Department of Mathematics
+  employer: Northwestern University
+  city: Evanston, Illinois
+- jobtitle: Teaching Assistant
+  dates: September 2001 - June 2005
+  department: Department of Mathematics
+  employer: Northwestern University
+  city: Evanston, Illinois
+
+publications:
+- item: McMorris, D., Pearson, P., & Yurk, B. (2016). A modified wavelet method for identifying transient features in time signals with applications to bean beetle maturation. Involve, a Journal of Mathematics, 10(1), 21-42.
+  href: https://msp.org/involve/2017/10-1/p02.xhtml
+- item: Pearson, P. T. (2016). The mod 2 Hopf ring for connective Morava K-theory. Journal of Homotopy and Related Structures, 11(3), 469-491.
+  href: https://link.springer.com/article/10.1007%2Fs40062-015-0113-z
+- item: Pearson, P. T. (2014). The connective real K-theory of Brown-Gitler spectra. Algebraic & Geometric Topology, 14(1), 597-625.
+  href: https://msp.org/agt/2014/14-1/p20.xhtml
+- item: Pearson, P. T. (2013). Visualizing clusters in artificial neural networks using Morse theory. Advances in Artificial Neural Systems, 2013 (Article ID 486363), 1-8.
+  href: https://www.hindawi.com/journals/aans/2013/486363/
+- item: Pearson, P. T., & Cooper, C. I. (2012, September). Using self organizing maps to analyze demographics and swing state voting in the 2008 US presidential election. In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 201-212). Springer, Berlin, Heidelberg.
+  href: https://link.springer.com/chapter/10.1007%2F978-3-642-33212-8_19
+- item: Cooper, C. I., & Pearson, P. T. (2012). A genetically optimized predictive system for success in general chemistry using a diagnostic algebra test. Journal of Science Education and Technology, 21(1), 197-205.
+  href: https://link.springer.com/article/10.1007%2Fs10956-011-9318-z
+
+# Insert URLs without http://
+urls:
+- paultpearson.github.io
+- twitter.com/paultpearson
+
+# Sections
+
+intro: "I know my fate. One day my name will be associated with the memory of something tremendous --- a crisis without equal on earth, the most profound collision of conscience, a decision that was conjured up against everything that had been believed, demanded, hallowed so far. I am no man, I am dynamite."
+
+skills:
+- Aesthetics, Ethics, Metaphysics, Nihilism
+- Psychology, Ontology, Poetry, Value theory
+- Voluntarism, Tragedy, Fact–value distinction
+- Anti-foundationalism, Philosophy of history
+
+
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 12pt
+lang: English
+geometry: letterpaper, left=1in, right=1in, top=1in, bottom=1in
+---

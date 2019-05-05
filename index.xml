@@ -66,5 +66,261 @@
       <description></description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://paultpearson.github.io/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/cv/cv/</guid>
+      <description>
+&lt;!DOCTYPE html&gt;
+&lt;!-- compile by running ./update_cv.sh at the terminal prompt --&gt;
+&lt;!-- source files are in content/cv/ and the supporting cv.css file is in static/css --&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Paul Pearson - Curriculum Vitae&lt;/title&gt;
+
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width&#34;/&gt;
+&lt;meta name=&#34;description&#34; content=&#34;The Curriculum Vitae of Paul Pearson.&#34;/&gt;
+&lt;meta charset=&#34;UTF-8&#34;&gt; 
+
+&lt;!--&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;cv.css&#34;&gt;--&gt;
+&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../css/cv.css&#34;&gt;
+&lt;link href=&#39;https://fonts.googleapis.com/css?family=Rokkitt:regular,bold|Lato:regular,black&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;&gt;
+
+
+&lt;/head&gt;
+&lt;body id=&#34;top&#34;&gt;
+&lt;div id=&#34;cv&#34; class=&#34;instaFade&#34;&gt;
+	&lt;div class=&#34;mainDetails&#34;&gt;
+		&lt;div id=&#34;name&#34;&gt;
+			&lt;h1 class=&#34;quickFade delayOne&#34;&gt;Paul Pearson&lt;/h1&gt;
+		&lt;/div&gt;
+		
+		&lt;div id=&#34;contactDetails&#34; class=&#34;quickFade delayTwo&#34;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;&lt;a href=&#34;mailto:pearsonp@hope.edu&#34; target=&#34;_blank&#34;&gt;pearsonp@hope.edu&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://paultpearson.github.io&#34; target=&#34;_blank&#34;&gt;paultpearson.github.io&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;br /&gt;
+		&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	
+	&lt;div id=&#34;mainArea&#34; class=&#34;quickFade delayThree&#34;&gt;
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Education&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Ph.D in Mathematics&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;June 2006&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Northwestern University, Evanston, Illinois&lt;/p&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Thesis: The mod p homology of topological modular forms&lt;/p&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Advisor: Paul Goerss&lt;/p&gt;
+					
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;BA in Mathematics&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;May 2001&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Saint Olaf College, Northfield, Minnesota&lt;/p&gt;
+					
+					
+					&lt;p class=&#34;subDetails&#34;&gt;Honors: Phi Beta Kappa, &lt;em&gt;summa cum laude&lt;/em&gt;, departmental distinction&lt;/p&gt;
+				&lt;/article&gt;
+							&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Work Experience&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Associate Professor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;July 2018 - present&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, Hope College, Holland, Michigan&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Assistant Professor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;July 2014 - June 2018&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, Hope College, Holland, Michigan&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Visiting Assistant Professor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;July 2012 - June 2014&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, Hope College, Holland, Michigan&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Visiting Assistant Professor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;August 2009 - May 2012&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, Fort Lewis College, Durango, Colorado&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Visiting Assistant Professor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;January 2007 - July 2009&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, University of Rochester, Rochester, New York&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Visiting Research Scholar&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;September 2006 - November 2006&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Mittag-Leffler Institute, Stockholm, Sweden&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Instructor&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;September 2005 - June 2006&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, Northwestern University, Evanston, Illinois&lt;/p&gt;
+				&lt;/article&gt;
+				&lt;br /&gt;
+								&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;Teaching Assistant&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;September 2001 - June 2005&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;Department of Mathematics, Northwestern University, Evanston, Illinois&lt;/p&gt;
+				&lt;/article&gt;
+							&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Publications&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+								&lt;p&gt;&lt;a href=&#34;https://msp.org/involve/2017/10-1/p02.xhtml&#34; target=&#34;_blank&#34;&gt;McMorris, D., Pearson, P., &amp;amp; Yurk, B. (2016). A modified wavelet method for identifying transient features in time signals with applications to bean beetle maturation. Involve, a Journal of Mathematics, 10(1), 21-42.&lt;/a&gt;&lt;/p&gt;
+								&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs40062-015-0113-z&#34; target=&#34;_blank&#34;&gt;Pearson, P. T. (2016). The mod 2 Hopf ring for connective Morava K-theory. Journal of Homotopy and Related Structures, 11(3), 469-491.&lt;/a&gt;&lt;/p&gt;
+								&lt;p&gt;&lt;a href=&#34;https://msp.org/agt/2014/14-1/p20.xhtml&#34; target=&#34;_blank&#34;&gt;Pearson, P. T. (2014). The connective real K-theory of Brown-Gitler spectra. Algebraic &amp;amp; Geometric Topology, 14(1), 597-625.&lt;/a&gt;&lt;/p&gt;
+								&lt;p&gt;&lt;a href=&#34;https://www.hindawi.com/journals/aans/2013/486363/&#34; target=&#34;_blank&#34;&gt;Pearson, P. T. (2013). Visualizing clusters in artificial neural networks using Morse theory. Advances in Artificial Neural Systems, 2013 (Article ID 486363), 1-8.&lt;/a&gt;&lt;/p&gt;
+								&lt;p&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007%2F978-3-642-33212-8_19&#34; target=&#34;_blank&#34;&gt;Pearson, P. T., &amp;amp; Cooper, C. I. (2012, September). Using self organizing maps to analyze demographics and swing state voting in the 2008 US presidential election. In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 201-212). Springer, Berlin, Heidelberg.&lt;/a&gt;&lt;/p&gt;
+								&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10956-011-9318-z&#34; target=&#34;_blank&#34;&gt;Cooper, C. I., &amp;amp; Pearson, P. T. (2012). A genetically optimized predictive system for success in general chemistry using a diagnostic algebra test. Journal of Science Education and Technology, 21(1), 197-205.&lt;/a&gt;&lt;/p&gt;
+							&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;		
+		
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paultpearson.github.io/cv/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/cv/template/</guid>
+      <description>
+&lt;!DOCTYPE html&gt;
+&lt;!-- compile by running ./update_cv.sh at the terminal prompt --&gt;
+&lt;!-- source files are in content/cv/ and the supporting cv.css file is in static/css --&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;$name$ - Curriculum Vitae&lt;/title&gt;
+
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width&#34;/&gt;
+&lt;meta name=&#34;description&#34; content=&#34;The Curriculum Vitae of $name$.&#34;/&gt;
+&lt;meta charset=&#34;UTF-8&#34;&gt; 
+
+&lt;!--&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;cv.css&#34;&gt;--&gt;
+&lt;link type=&#34;text/css&#34; rel=&#34;stylesheet&#34; href=&#34;../css/cv.css&#34;&gt;
+&lt;link href=&#39;https://fonts.googleapis.com/css?family=Rokkitt:regular,bold|Lato:regular,black&#39; rel=&#39;stylesheet&#39; type=&#39;text/css&#39;&gt;
+
+
+&lt;/head&gt;
+&lt;body id=&#34;top&#34;&gt;
+&lt;div id=&#34;cv&#34; class=&#34;instaFade&#34;&gt;
+	&lt;div class=&#34;mainDetails&#34;&gt;
+		&lt;div id=&#34;name&#34;&gt;
+			&lt;h1 class=&#34;quickFade delayOne&#34;&gt;$name$&lt;/h1&gt;
+		&lt;/div&gt;
+		
+		&lt;div id=&#34;contactDetails&#34; class=&#34;quickFade delayTwo&#34;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;&lt;a href=&#34;mailto:$email$&#34; target=&#34;_blank&#34;&gt;$email$&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://$website$&#34; target=&#34;_blank&#34;&gt;$website$&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+		&lt;br /&gt;
+		&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	
+	&lt;div id=&#34;mainArea&#34; class=&#34;quickFade delayThree&#34;&gt;
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Education&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				$for(education)$
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;$education.degree$&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;$education.date$&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;$education.institution$, $education.city$&lt;/p&gt;
+					$if(education.thesistitle)$&lt;p class=&#34;subDetails&#34;&gt;Thesis: $education.thesistitle$&lt;/p&gt;$endif$
+					$if(education.advisor)$&lt;p class=&#34;subDetails&#34;&gt;Advisor: $education.advisor$&lt;/p&gt;$endif$
+					$if(education.honors)$&lt;p class=&#34;subDetails&#34;&gt;Honors: $education.honors$&lt;/p&gt;$endif$
+				&lt;/article&gt;
+				$sep$&lt;br /&gt;
+				$endfor$
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Work Experience&lt;/h1&gt;
+			&lt;/div&gt;
+			
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				$for(experience)$
+				&lt;article&gt;
+					&lt;span class=&#34;contentHeader&#34;&gt;$experience.jobtitle$&lt;/span&gt;
+					&lt;span class=&#34;contentDate&#34;&gt;$experience.dates$&lt;/span&gt;
+					&lt;p class=&#34;subDetails&#34;&gt;$if(experience.department)$$experience.department$, $endif$$experience.employer$, $experience.city$&lt;/p&gt;
+				&lt;/article&gt;
+				$sep$&lt;br /&gt;
+				$endfor$
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+			&lt;br /&gt;
+		&lt;/section&gt;
+
+		&lt;section&gt;
+			&lt;div class=&#34;sectionTitle&#34;&gt;
+				&lt;h1&gt;Publications&lt;/h1&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&#34;sectionContent&#34;&gt;
+				$for(publications)$
+				&lt;p&gt;&lt;a href=&#34;$publications.href$&#34; target=&#34;_blank&#34;&gt;$publications.item$&lt;/a&gt;&lt;/p&gt;
+				$endfor$
+			&lt;/div&gt;
+			&lt;div class=&#34;clear&#34;&gt;&lt;/div&gt;
+		&lt;/section&gt;		
+		
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>

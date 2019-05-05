@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on Paul Pearson</title>
+    <link>https://paultpearson.github.io/cv/</link>
+    <description>Recent content in Cvs on Paul Pearson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    
+	<atom:link href="https://paultpearson.github.io/cv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://paultpearson.github.io/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/cv/cv/</guid>
+      <description>Paul Pearson - Curriculum Vitae --  Paul Pearson   pearsonp@hope.edu paultpearson.github.io      Education   Ph.D in Mathematics June 2006 Northwestern University, Evanston, Illinois
+Thesis: The mod p homology of topological modular forms
+Advisor: Paul Goerss
+  BA in Mathematics May 2001 Saint Olaf College, Northfield, Minnesota
+Honors: Phi Beta Kappa, summa cum laude, departmental distinction
+     Work Experience   Associate Professor July 2018 - present Department of Mathematics, Hope College, Holland, Michigan</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paultpearson.github.io/cv/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/cv/template/</guid>
+      <description>   $name$ - Curriculum Vitae --  $name$   $email$ $website$      Education  $for(education)$  $education.degree$ $education.date$ $education.institution$, $education.city$
+$if(education.thesistitle)$Thesis: $education.thesistitle$
+$endif$ $if(education.advisor)$Advisor: $education.advisor$
+$endif$ $if(education.honors)$Honors: $education.honors$
+$endif$  $sep$
+$endfor$     Work Experience  $for(experience)$  $experience.jobtitle$ $experience.dates$ $if(experience.department)$$experience.department$, $endif$$experience.employer$, $experience.city$
+ $sep$
+$endfor$     Publications  $for(publications)$ $publications.item$
+$endfor$   	    </description>
+    </item>
+    
+  </channel>
+</rss>

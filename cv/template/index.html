@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+
+
+<html>
+<head>
+<title>$name$ - Curriculum Vitae</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of $name$."/>
+<meta charset="UTF-8"> 
+
+
+<link type="text/css" rel="stylesheet" href="../css/cv.css">
+<link href='https://fonts.googleapis.com/css?family=Rokkitt:regular,bold|Lato:regular,black' rel='stylesheet' type='text/css'>
+
+
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="name">
+			<h1 class="quickFade delayOne">$name$</h1>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayTwo">
+			<ul>
+				<li><a href="mailto:$email$" target="_blank">$email$</a></li>
+				<li><a href="https://$website$" target="_blank">$website$</a></li>
+			</ul>
+		</div>
+		<br />
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayThree">
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+
+			<div class="sectionContent">
+				$for(education)$
+				<article>
+					<span class="contentHeader">$education.degree$</span>
+					<span class="contentDate">$education.date$</span>
+					<p class="subDetails">$education.institution$, $education.city$</p>
+					$if(education.thesistitle)$<p class="subDetails">Thesis: $education.thesistitle$</p>$endif$
+					$if(education.advisor)$<p class="subDetails">Advisor: $education.advisor$</p>$endif$
+					$if(education.honors)$<p class="subDetails">Honors: $education.honors$</p>$endif$
+				</article>
+				$sep$<br />
+				$endfor$
+			</div>
+			<div class="clear"></div>
+			<br />
+		</section>
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Work Experience</h1>
+			</div>
+			
+			<div class="sectionContent">
+				$for(experience)$
+				<article>
+					<span class="contentHeader">$experience.jobtitle$</span>
+					<span class="contentDate">$experience.dates$</span>
+					<p class="subDetails">$if(experience.department)$$experience.department$, $endif$$experience.employer$, $experience.city$</p>
+				</article>
+				$sep$<br />
+				$endfor$
+			</div>
+			<div class="clear"></div>
+			<br />
+		</section>
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Publications</h1>
+			</div>
+
+			<div class="sectionContent">
+				$for(publications)$
+				<p><a href="$publications.href$" target="_blank">$publications.item$</a></p>
+				$endfor$
+			</div>
+			<div class="clear"></div>
+		</section>		
+		
+	</div>
+</div>
+</body>
+</html>
+

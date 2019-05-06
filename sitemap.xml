@@ -186,12 +186,7 @@
   </url>
   
   <url>
-    <loc>https://paultpearson.github.io/cv/cv/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/cv/template/</loc>
+    <loc>https://paultpearson.github.io/cv/</loc>
     <priority>0</priority>
   </url>
   
@@ -202,11 +197,6 @@
   
   <url>
     <loc>https://paultpearson.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/cv/</loc>
     <priority>0</priority>
   </url>
   

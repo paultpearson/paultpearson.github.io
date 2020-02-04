@@ -3,6 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://paultpearson.github.io/tags/calc2/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/categories/calculus2/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/categories/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/ibl/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/categories/inquirybasedlearning/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/polys/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/post/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paultpearson.github.io/tags/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://paultpearson.github.io/publication_types/2/</loc>
     <lastmod>2016-10-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -38,12 +96,6 @@
   </url>
   
   <url>
-    <loc>https://paultpearson.github.io/</loc>
-    <lastmod>2016-10-11T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://paultpearson.github.io/publication_types/</loc>
     <lastmod>2016-10-11T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -52,12 +104,6 @@
   <url>
     <loc>https://paultpearson.github.io/publication/</loc>
     <lastmod>2016-10-11T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/tags/</loc>
-    <lastmod>2016-10-11T00:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -193,15 +239,6 @@
   <url>
     <loc>https://paultpearson.github.io/author/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://paultpearson.github.io/post/</loc>
   </url>
   
   <url>

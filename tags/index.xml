@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 11 Oct 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://paultpearson.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Calc2</title>
+      <link>https://paultpearson.github.io/tags/calc2/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/tags/calc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBL</title>
+      <link>https://paultpearson.github.io/tags/ibl/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/tags/ibl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polys</title>
+      <link>https://paultpearson.github.io/tags/polys/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/tags/polys/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bean Beetle Maturation</title>

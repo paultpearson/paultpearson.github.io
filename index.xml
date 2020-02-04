@@ -7,10 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 11 Oct 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://paultpearson.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Polynomial approximations without Taylor&#39;s theorem</title>
+      <link>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</guid>
+      <description>
+
+&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+
+&lt;p&gt;Some text.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A modified wavelet method for identifying transient features in time signals with applications to bean beetle maturation</title>

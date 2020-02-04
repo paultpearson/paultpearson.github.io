@@ -20,7 +20,7 @@
       <guid>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</guid>
       <description>Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function has two parts:
  Constructing a polynomial whose derivatives match those of the function at the center point, and
- Constructing an error (remainder) term for the difference between the function and the approximating polynomial.
+ Constructing a remainder (error) term for the difference between the function and the approximating polynomial.
   Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.</description>
     </item>
     

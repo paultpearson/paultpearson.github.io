@@ -23,7 +23,7 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Constructing a polynomial whose derivatives match those of the function at the center point, and&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Constructing an error (remainder) term for the difference between the function and the approximating polynomial.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Constructing a remainder (error) term for the difference between the function and the approximating polynomial.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.&lt;/p&gt;

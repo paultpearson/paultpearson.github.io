@@ -25,9 +25,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Constructing a sequence of functions (in this case, polynomials) that converge to a function is one of the most important ideas in analysis.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Polynomial approximations to functions provide context for sequences and series.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Polynomial approximations to functions introduce and provide context for sequences and series.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Convergence of polynomial approximations to a function can be explored and understood through graphs and spreadsheets, thereby providing students a means for understanding convergence beyond symbol pushing.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Uniform and pointwise convergence of polynomial approximations to a function can be explored and understood through graphs and spreadsheets, thereby providing students a means for understanding convergence beyond mere symbol pushing.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Polynomial approximations give students a way to understand how the function keys on their calculators actually work.&lt;/p&gt;&lt;/li&gt;
 

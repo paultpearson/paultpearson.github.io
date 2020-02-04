@@ -18,10 +18,9 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</guid>
-      <description>In a typical Calculus 2 class, sequences and series are learned near the end of the semester. In my Calculus 2 class in Spring 2020, we started with polynomial approximations on day 1 of class. Why?
- Polynomial approximations provide context for sequences and series.
- Polynomial approximations can be explored through graphs and spreadsheets, thereby giving meaning to the symbolic procedures used for their construction.
- Polynomial approximations give students a way to understand how the function keys on their calculators actually work.</description>
+      <description>In a typical Calculus 2 class, sequences and series are learned near the end of the semester. In my Calculus 2 class in Spring 2020, we started with polynomial approximations to functions on day 1 of class. Why?
+ Constructing a sequence of functions (in this case, polynomials) that converge to a function is one of the most important ideas in analysis.
+ Polynomial approximations to functions provide context for sequences and series.</description>
     </item>
     
   </channel>

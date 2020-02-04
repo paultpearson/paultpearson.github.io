@@ -18,7 +18,7 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</guid>
-      <description>&lt;p&gt;In a typical Calculus 2 class, sequences and series are learned near the end of the semester.  In my Calculus 2 class during Spring 2020, we started with polynomial approximations on day 1 of class.  Why?&lt;/p&gt;
+      <description>&lt;p&gt;In a typical Calculus 2 class, sequences and series are learned near the end of the semester.  In my Calculus 2 class in Spring 2020, we started with polynomial approximations on day 1 of class.  Why?&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Polynomial approximations provide context for sequences and series.&lt;/p&gt;&lt;/li&gt;
@@ -30,15 +30,7 @@
 &lt;li&gt;&lt;p&gt;Students have more energy for learning at the beginning of a semester than at the end.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function has two parts:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Constructing a polynomial whose derivatives match those of the function at the center point, and&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Constructing a remainder (error) term for the difference between the function and the approximating polynomial.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.&lt;/p&gt;
+&lt;p&gt;Instead of using Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function via derivatives, we constructed polynomial approximations by integrating inequalities.  The basic idea is to bound a function $f$ above and below by polynomials $q$ and $p$ over an interval, integrate $p(t) \leq f(t) \leq q(t)$ over $\lbrack 0, x \rbrack$, and (if possible) solve the resulting inequalities for $f(x)$.  This method works well if some derivative (or integral) of $f$ is $f$ again, such as when $f(x)$ is $e^x$, $\sin(x)$, $\cos(x)$, $\sinh(x)$, and $\cosh(x)$.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Show that if $f(x) \leq g(x)$ for all $x$ in $\lbrack a, b \rbrack$, then $\displaystyle \int_a^b f(x) \, dx \leq \int_a^b g(x) \, dx$.&lt;/p&gt;&lt;/li&gt;
@@ -47,6 +39,16 @@
 &lt;/ol&gt;
 
 &lt;p&gt;Johnson, Wells. &amp;ldquo;Power Series Without Taylor&amp;rsquo;s Theorem.&amp;rdquo; The American Mathematical Monthly 91.6 (1984): 367-369. &lt;a href=&#34;https://doi.org/10.1080/00029890.1984.11971434&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00029890&lt;/sub&gt;.1984.11971434&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+Taylor&#39;s theorem for constructing a polynomial approximation to a function has two parts:
+
+1. Constructing a polynomial whose derivatives match those of the function at the center point, and
+
+2. Constructing a remainder (error) term for the difference between the function and the approximating polynomial.
+
+Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.
+--&gt;
 </description>
     </item>
     

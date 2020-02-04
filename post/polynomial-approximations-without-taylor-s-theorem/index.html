@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="In a typical Calculus 2 class, sequences and series are learned near the end of the semester. In my Calculus 2 class during Spring 2020, we started with polynomial approximations on day 1 of class. Why?
+  <meta name="description" content="In a typical Calculus 2 class, sequences and series are learned near the end of the semester. In my Calculus 2 class in Spring 2020, we started with polynomial approximations on day 1 of class. Why?
  Polynomial approximations provide context for sequences and series.
  Polynomial approximations can be explored through graphs and spreadsheets, thereby giving meaning to the symbolic procedures used for their construction.
  Polynomial approximations give students a way to understand how the function keys on their calculators actually work.">
@@ -125,7 +125,7 @@
   <meta property="og:site_name" content="Paul Pearson">
   <meta property="og:url" content="https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/">
   <meta property="og:title" content="Polynomial approximations without Taylor&#39;s theorem | Paul Pearson">
-  <meta property="og:description" content="In a typical Calculus 2 class, sequences and series are learned near the end of the semester. In my Calculus 2 class during Spring 2020, we started with polynomial approximations on day 1 of class. Why?
+  <meta property="og:description" content="In a typical Calculus 2 class, sequences and series are learned near the end of the semester. In my Calculus 2 class in Spring 2020, we started with polynomial approximations on day 1 of class. Why?
  Polynomial approximations provide context for sequences and series.
  Polynomial approximations can be explored through graphs and spreadsheets, thereby giving meaning to the symbolic procedures used for their construction.
  Polynomial approximations give students a way to understand how the function keys on their calculators actually work."><meta property="og:image" content="https://paultpearson.github.io/img/icon-192.png">
@@ -436,7 +436,7 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>In a typical Calculus 2 class, sequences and series are learned near the end of the semester.  In my Calculus 2 class during Spring 2020, we started with polynomial approximations on day 1 of class.  Why?</p>
+      <p>In a typical Calculus 2 class, sequences and series are learned near the end of the semester.  In my Calculus 2 class in Spring 2020, we started with polynomial approximations on day 1 of class.  Why?</p>
 
 <ul>
 <li><p>Polynomial approximations provide context for sequences and series.</p></li>
@@ -448,15 +448,7 @@
 <li><p>Students have more energy for learning at the beginning of a semester than at the end.</p></li>
 </ul>
 
-<p>Taylor&rsquo;s theorem for constructing a polynomial approximation to a function has two parts:</p>
-
-<ol>
-<li><p>Constructing a polynomial whose derivatives match those of the function at the center point, and</p></li>
-
-<li><p>Constructing a remainder (error) term for the difference between the function and the approximating polynomial.</p></li>
-</ol>
-
-<p>Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.</p>
+<p>Instead of using Taylor&rsquo;s theorem for constructing a polynomial approximation to a function via derivatives, we constructed polynomial approximations by integrating inequalities.  The basic idea is to bound a function $f$ above and below by polynomials $q$ and $p$ over an interval, integrate $p(t) \leq f(t) \leq q(t)$ over $\lbrack 0, x \rbrack$, and (if possible) solve the resulting inequalities for $f(x)$.  This method works well if some derivative (or integral) of $f$ is $f$ again, such as when $f(x)$ is $e^x$, $\sin(x)$, $\cos(x)$, $\sinh(x)$, and $\cosh(x)$.</p>
 
 <ol>
 <li><p>Show that if $f(x) \leq g(x)$ for all $x$ in $\lbrack a, b \rbrack$, then $\displaystyle \int_a^b f(x) \, dx \leq \int_a^b g(x) \, dx$.</p></li>
@@ -465,6 +457,16 @@
 </ol>
 
 <p>Johnson, Wells. &ldquo;Power Series Without Taylor&rsquo;s Theorem.&rdquo; The American Mathematical Monthly 91.6 (1984): 367-369. <a href="https://doi.org/10.1080/00029890.1984.11971434" target="_blank">https://doi.org/10.<sup>1080</sup>&frasl;<sub>00029890</sub>.1984.11971434</a></p>
+
+<!--
+Taylor's theorem for constructing a polynomial approximation to a function has two parts:
+
+1. Constructing a polynomial whose derivatives match those of the function at the center point, and
+
+2. Constructing a remainder (error) term for the difference between the function and the approximating polynomial.
+
+Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.
+-->
 
     </div>
 

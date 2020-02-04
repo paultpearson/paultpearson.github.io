@@ -28,6 +28,12 @@
 
 &lt;p&gt;Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.&lt;/p&gt;
 
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Show that if $f(x) \leq g(x)$ for all $x$ in $\lbrack a, b \rbrack$, then $\displaystyle \int_a^b f(x) \, dx \leq \int_a^b g(x) \, dx$.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Verify that $e^{-t} \leq 1$ for all $t \geq 0$. Then, integrate both sides of the inequality $e^{-t} \leq 1$ over $\lbrack 0, x \rbrack$ and solve the resulting inequality for $e^{-x}$ to get a degree $1$ polynomial approximation to $e^{-x}$.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
 &lt;p&gt;Johnson, Wells. &amp;ldquo;Power Series Without Taylor&amp;rsquo;s Theorem.&amp;rdquo; The American Mathematical Monthly 91.6 (1984): 367-369. &lt;a href=&#34;https://doi.org/10.1080/00029890.1984.11971434&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00029890&lt;/sub&gt;.1984.11971434&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

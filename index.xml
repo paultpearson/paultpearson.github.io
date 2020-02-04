@@ -18,11 +18,15 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</guid>
-      <description>
+      <description>&lt;p&gt;Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function has two parts:&lt;/p&gt;
 
-&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Constructing a polynomial whose derivatives match those of the function at the center point, and&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;Some text.&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Constructing an error (remainder) term for the difference between the function and the approximating polynomial.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.&lt;/p&gt;
 
 &lt;p&gt;Johnson, Wells. &amp;ldquo;Power Series Without Taylor&amp;rsquo;s Theorem.&amp;rdquo; The American Mathematical Monthly 91.6 (1984): 367-369. &lt;a href=&#34;https://doi.org/10.1080/00029890.1984.11971434&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00029890&lt;/sub&gt;.1984.11971434&lt;/a&gt;&lt;/p&gt;
 </description>

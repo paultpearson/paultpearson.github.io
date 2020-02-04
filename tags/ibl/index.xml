@@ -18,8 +18,10 @@
       <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paultpearson.github.io/post/polynomial-approximations-without-taylor-s-theorem/</guid>
-      <description>Title Some text.
-Johnson, Wells. &amp;ldquo;Power Series Without Taylor&amp;rsquo;s Theorem.&amp;rdquo; The American Mathematical Monthly 91.6 (1984): 367-369. https://doi.org/10.1080&amp;frasl;00029890.1984.11971434</description>
+      <description>Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function has two parts:
+ Constructing a polynomial whose derivatives match those of the function at the center point, and
+ Constructing an error (remainder) term for the difference between the function and the approximating polynomial.
+  Part 1 requires taking derivatives of the function, and part 2 requires using the mean value theorem (Lagrange and Cauchy forms of the remainder) or an integral.</description>
     </item>
     
   </channel>

@@ -458,12 +458,12 @@
 <li><p>Students have more energy for learning at the beginning of a semester than at the end.</p></li>
 </ul>
 
-<p>Instead of using Taylor&rsquo;s theorem for constructing a polynomial approximation to a function via derivatives, we constructed polynomial approximations by integrating inequalities (see reference to Johnson).  The basic idea is to bound a function $f$ above and below by polynomials $q$ and $p$ over an interval, integrate $p(t) \leq f(t) \leq q(t)$ over $\lbrack 0, x \rbrack$, and (if possible) solve the resulting inequalities for $f(x)$.  This method works well when some antiderivative of $f$ is $f$ again (up to a constant), such as when $f(x)$ is $e^x$, $\sin(x)$, $\cos(x)$, $\sinh(x)$, and $\cosh(x)$.  For example, I asked my students to do the following activities in class:</p>
+<p>Instead of using Taylor&rsquo;s theorem for constructing a polynomial approximation to a function via derivatives, we constructed polynomial approximations by integrating inequalities (Johnson).  The basic idea is to bound a function $f$ above and below by polynomials $q$ and $p$ over an interval, integrate $p(t) \leq f(t) \leq q(t)$ over $\lbrack 0, x \rbrack$, and (if possible) solve the resulting inequalities for $f(x)$.  This method works well when some antiderivative of $f$ is $f$ again (up to a constant), such as when $f(x)$ is $e^x$, $\sin(x)$, $\cos(x)$, $\sinh(x)$, and $\cosh(x)$.  For example, I asked my students to do the following activities in class:</p>
 
 <ol>
-<li><p>Show that if $f(x) \leq g(x)$ for all $x$ in $\lbrack a, b \rbrack$, then $\displaystyle \int_a^b f(x) \, dx \leq \int_a^b g(x) \, dx$.</p></li>
+<li><p>Show that if $f(t) \leq g(t)$ for all $t$ in $\lbrack a, b \rbrack$, then $\int_a^b f(t) \, dt \leq \int_a^b g(t) \, dt$.</p></li>
 
-<li><p>Verify that $e^{-t} \leq 1$ for all $t \geq 0$. Then, integrate both sides of the inequality $e^{-t} \leq 1$ over $\lbrack 0, x \rbrack$ and solve the resulting inequality for $e^{-x}$ to get a degree $1$ polynomial approximation to $e^{-x}$.  Then, repeat this process by integrating the result, $1-t \leq e^{-t} \leq 1$, over $\lbrack 0, x \rbrack$.  Keep repeating this process, and graph the new polynomial approximation at each step.</p></li>
+<li><p>Verify that $e^{-t} \leq 1$ for all $t \geq 0$. Then, integrate both sides of the inequality $e^{-t} \leq 1$ over $\lbrack 0, x \rbrack$ and solve the resulting inequality for $e^{-x}$ to get a degree $1$ polynomial approximation to $e^{-x}$.  Then, repeat this process by integrating the result, $1-t \leq e^{-t} \leq 1$, over $\lbrack 0, x \rbrack$.  Repeat this process many times and graph the new polynomial approximation at each step.</p></li>
 
 <li><p>Write $p_n(x)$ for your degree $n$ polynomial approximation to $e^{-x}$.  Solve the inequalities $p_5(x) \leq e^{-x} \leq p_4(x)$ for $| e^{-x} - p_4(x) | \leq ErrorBound(x)$.  Using your error bound, find the largest positive $x$ such that the error between $p_4(x)$ and $e^{-x}$ is less than $0.0001$.</p></li>
 </ol>
@@ -475,7 +475,7 @@
 
 <li><p>It reinforces the idea of an accumulation function from the Fundamental Theorem of Calculus,</p></li>
 
-<li><p>The idea of convergence and error bounds are plain to see and easier to work with than when using Taylor&rsquo;s remainder theorem,</p></li>
+<li><p>The idea of convergence and error bounds are plain to see and easier to work with than Taylor&rsquo;s remainder theorem, and</p></li>
 
 <li><p>It&rsquo;s fun!</p></li>
 </ul>

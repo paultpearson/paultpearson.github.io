@@ -44,7 +44,7 @@
 &lt;li&gt;&lt;p&gt;Write $p_n(x)$ for your degree $n$ polynomial approximation to $e^{-x}$.  Solve the inequalities $p_5(x) \leq e^{-x} \leq p_4(x)$ for $| e^{-x} - p_4(x) | \leq ErrorBound(x)$.  Using your error bound, find the largest positive $x$ such that the error between $p_4(x)$ and $e^{-x}$ is less than $0.0001$.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Some of the benefits to this approach are:&lt;/p&gt;
+&lt;p&gt;For more examples, see (Johnson).  Some of the benefits to this approach are:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It is graphical, numerical, and symbolic, so it requires students to make connections among different viewpoints,&lt;/p&gt;&lt;/li&gt;

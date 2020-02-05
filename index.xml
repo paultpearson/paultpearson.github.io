@@ -34,7 +34,7 @@
 &lt;li&gt;&lt;p&gt;Students have more energy for learning at the beginning of a semester than at the end.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Instead of using Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function via derivatives, we constructed polynomial approximations by integrating inequalities (Johnson).  The basic idea is to bound a function $f$ above and below by polynomials $q$ and $p$ over an interval, integrate $p(t) \leq f(t) \leq q(t)$ over $\lbrack 0, x \rbrack$, and (if possible) solve the resulting inequalities for $f(x)$.  This method works well when some antiderivative of $f$ is $f$ again (up to a constant), such as when $f(x)$ is $e^x$, $\sin(x)$, $\cos(x)$, $\sinh(x)$, and $\cosh(x)$.  For example, I asked my students to do the following activities in class:&lt;/p&gt;
+&lt;p&gt;Instead of using Taylor&amp;rsquo;s theorem for constructing a polynomial approximation to a function via derivatives, we constructed polynomial approximations by integrating inequalities (inspired by Johnson).  The basic idea is to bound a function $f$ above and below by polynomials $q$ and $p$ over an interval, integrate $p(t) \leq f(t) \leq q(t)$ over $\lbrack 0, x \rbrack$, and (if possible) solve the resulting inequalities for $f(x)$.  This method works well when some antiderivative of $f$ is $f$ again (up to a constant), such as when $f(x)$ is $e^x$, $\sin(x)$, $\cos(x)$, $\sinh(x)$, and $\cosh(x)$.  For example, I asked my students to do the following activities in class:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Show that if $f(t) \leq g(t)$ for all $t$ in $\lbrack a, b \rbrack$, then $\int_a^b f(t) \, dt \leq \int_a^b g(t) \, dt$.&lt;/p&gt;&lt;/li&gt;
